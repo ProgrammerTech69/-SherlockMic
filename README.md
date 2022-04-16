@@ -4,7 +4,7 @@
 
 Capturing audio (.wav) from target using a link
 
-![hello](https://user-images.githubusercontent.com/34893261/66277580-c7f4b980-e876-11e9-9d05-e3170ad9278e.png)
+![hello](https://user-images.githubusercontent.com/97885291/163691593-ce35140b-3737-44da-911d-5c7f6c30805f.png)
 
 ### How it works?
 
